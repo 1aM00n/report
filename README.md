@@ -14,12 +14,14 @@
 ## Установка
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 
 ## Пример запуска
 
 ```bash
-python performance.py --files "./test_files/employees1.csv" "./test_files/employees2.csv" --report performance```
+python performance.py --files "./test_files/employees1.csv" "./test_files/employees2.csv" --report performance
+```
 
 ![Пример запуска](Images/"Пример работы".png)
