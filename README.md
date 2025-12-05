@@ -23,5 +23,4 @@ pip install -r requirements.txt
 ```bash
 python performance.py --files "./test_files/employees1.csv" "./test_files/employees2.csv" --report performance
 ```
-
-![Пример запуска](Images/"Пример работы".png)
+<img width="352" height="243" alt="Пример работы" src="https://github.com/user-attachments/assets/198679de-a287-435c-8580-fa40f490f3d2" />
